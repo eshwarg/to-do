@@ -1,7 +1,7 @@
 import React from 'react';
 import PendingItems from './PendingItems';
 
-const Pending = ({ pending }) => {
+const Pending = ({pending}) => {
   const handleSubmit = (body) => {
     const url = "/todos/update";
     const token = document.querySelector('meta[name="csrf-token"]').content;
