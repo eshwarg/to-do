@@ -1,5 +1,5 @@
 current directory: /Users/egoutham/Documents/projects/to-do/vendor/bundle/ruby/2.6.0/gems/ffi-1.14.2/ext/ffi_c
-/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20210127-93727-1akfx9y.rb extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20210127-19596-t54akk.rb extconf.rb
 checking for ffi_prep_closure_loc() in -lffi... yes
 checking for ffi_prep_cif_var()... yes
 checking for ffi_raw_call()... yes
@@ -40,4 +40,4 @@ ld: warning: directory not found for option '-L/Applications/Xcode.app/Contents/
 
 current directory: /Users/egoutham/Documents/projects/to-do/vendor/bundle/ruby/2.6.0/gems/ffi-1.14.2/ext/ffi_c
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20210127-93727-lm6ekd
+/usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20210127-19596-tokvw

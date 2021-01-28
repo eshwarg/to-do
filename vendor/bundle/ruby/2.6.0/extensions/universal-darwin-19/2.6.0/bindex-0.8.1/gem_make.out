@@ -1,5 +1,5 @@
 current directory: /Users/egoutham/Documents/projects/to-do/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
-/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20210127-93727-1qq6jwa.rb extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20210127-19596-1wg5gju.rb extconf.rb
 creating Makefile
 
 current directory: /Users/egoutham/Documents/projects/to-do/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
@@ -13,4 +13,4 @@ ld: warning: directory not found for option '-L/Applications/Xcode.app/Contents/
 
 current directory: /Users/egoutham/Documents/projects/to-do/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20210127-93727-1gb0f5n/skiptrace/internal
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20210127-19596-w299xq/skiptrace/internal

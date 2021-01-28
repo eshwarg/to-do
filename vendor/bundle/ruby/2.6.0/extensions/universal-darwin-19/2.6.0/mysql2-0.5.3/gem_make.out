@@ -1,5 +1,5 @@
 current directory: /Users/egoutham/Documents/projects/to-do/vendor/bundle/ruby/2.6.0/gems/mysql2-0.5.3/ext/mysql2
-/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20210127-93727-lus8dg.rb extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20210127-22136-r7hlqz.rb extconf.rb
 checking for rb_absint_size()... yes
 checking for rb_absint_singlebit_p()... yes
 checking for rb_wait_for_single_fd()... yes
@@ -42,4 +42,4 @@ ld: warning: directory not found for option '-L/Applications/Xcode.app/Contents/
 
 current directory: /Users/egoutham/Documents/projects/to-do/vendor/bundle/ruby/2.6.0/gems/mysql2-0.5.3/ext/mysql2
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 mysql2.bundle ./.gem.20210127-93727-1o1370q/mysql2
+/usr/bin/install -c -m 0755 mysql2.bundle ./.gem.20210127-22136-16mdt8e/mysql2

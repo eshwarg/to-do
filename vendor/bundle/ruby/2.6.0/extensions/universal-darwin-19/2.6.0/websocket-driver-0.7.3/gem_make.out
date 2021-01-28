@@ -1,5 +1,5 @@
 current directory: /Users/egoutham/Documents/projects/to-do/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.3/ext/websocket-driver
-/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20210127-93727-midpsh.rb extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20210127-19596-x8z26r.rb extconf.rb
 creating Makefile
 
 current directory: /Users/egoutham/Documents/projects/to-do/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.3/ext/websocket-driver
@@ -13,4 +13,4 @@ ld: warning: directory not found for option '-L/Applications/Xcode.app/Contents/
 
 current directory: /Users/egoutham/Documents/projects/to-do/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.3/ext/websocket-driver
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20210127-93727-1jxtecd
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20210127-19596-e2mce9
